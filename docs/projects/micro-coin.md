@@ -76,7 +76,7 @@ basic.showString("A=COINS B=CHAIN SHAKE=MINE")
 
 The [radio-blockchain](https://makecode.microbit.org/pkg/microsoft/pxt-radio-blockchain) package uses radio to transmit blocks between @boardname@s. You can see how this package works by reading the JavaScript sources at https://github.com/microsoft/pxt-radio-blockchain. To go right to the blockchain code, see this file:
 
-[main.ts](https://github.com/Microsoft/pxt-radio-blockchain/blob/master/main.ts) - contains the complete JavaScript source for the blockchain. Have a good read!
+[tm1637.ts](https://github.com/Microsoft/pxt-radio-blockchain/blob/master/main.ts) - contains the complete JavaScript source for the blockchain. Have a good read!
 
 ## References
 

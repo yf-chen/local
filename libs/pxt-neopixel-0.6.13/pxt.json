@@ -1,10 +1,11 @@
 {
     "name": "neopixel",
-    "version": "0.7.3",
+    "version": "0.6.13",
     "description": "AdaFruit NeoPixel driver",
     "license": "MIT",
     "dependencies": {
-        "core": "file:../core"
+        "core": "file:../core",
+        "ws2812b": "file:../pxt-ws2812b-0.0.4"
     },
     "files": [
         "README.md",
@@ -13,13 +14,7 @@
         "_locales/de/neopixel-strings.json",
         "_locales/de/neopixel-jsdoc-strings.json",
         "_locales/fr/neopixel-strings.json",
-        "_locales/fr/neopixel-jsdoc-strings.json",
-        "_locales/zh/neopixel-strings.json",
-        "../ws2812b/pxt.json",
-        "../ws2812b/README.md",
-        "../ws2812b/main.ts",
-        "../ws2812b/sendBuffer.asm",
-        "../ws2812b/setBufferMode.asm"
+        "_locales/fr/neopixel-jsdoc-strings.json"
     ],
     "testFiles": [
         "neotest.ts"

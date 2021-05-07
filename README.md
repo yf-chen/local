@@ -148,7 +148,7 @@ If you are also modifiying CODAL, consider running ``pxt clean`` to ensure the p
 * find project folder under `pxt-microbit/projects`, typically `pxt-microbit/projects/Untitled-42`
 * if you're going to modify `.cpp` files in PXT, replace `"core": "*"` in `pxt.json` with `"core": "file:../../libs/core"`;
   similarly `"radio": "file:../../libs/radio"`
-* you can edit `main.ts` to change the PXT side of the program; you can also edit it from the localhost editor;
+* you can edit `tm1637.ts` to change the PXT side of the program; you can also edit it from the localhost editor;
   note that `Download` in the localhost editor will produce different binary than command line, as it builds in the cloud
   and uses tagged version of CODAL
 * in that folder run `pxt build` - this will clone codal somewhere under `built/` (depends on build engine and docker)

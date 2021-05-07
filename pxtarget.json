@@ -10,13 +10,19 @@
         "libs/radio",
         "libs/devices",
         "libs/bluetooth",
-        "libs/servo",
         "libs/radio-broadcast",
         "libs/microphone",
         "libs/settings",
         "libs/neopixel",
         "libs/tinkercademy-tinker-kit",
-        "libs/TM1637"
+        "libs/TM1637",
+        "libs/JoyBit",
+        "libs/realtimeclock-ds1307",
+        "libs/motorbit",
+        "libs/mijia-max7219",
+        "libs/OLED12864_I2C",
+        "libs/WhaleySansFont",
+        "libs/snowflake"
     ],
     "cloud": {
         "workspace": false,

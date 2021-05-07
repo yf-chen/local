@@ -1,4 +1,4 @@
-// total=2952 new=27.00% cached=0.00% other=73.00%
+// total=2962 new=27.14% cached=0.00% other=72.86%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -56,7 +56,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P30318(s) {
+function _main___P510914(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -66,19 +66,19 @@ if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) re
 switch (step) {
   case 0:
 
-    globals._intervals___30704 = (undefined);
-    globals._pollEventQueue___30920 = (undefined);
+    globals._intervals___511300 = (undefined);
+    globals._pollEventQueue___511516 = (undefined);
     r0 = undefined;
     return leave(s, r0)
   default: oops()
 } } }
-_main___P30318.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"soundexpressions.ts","functionName":"<main>","argumentNames":[]}
-_main___P30318.continuations = [  ]
+_main___P510914.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"soundexpressions.ts","functionName":"<main>","argumentNames":[]}
+_main___P510914.continuations = [  ]
 
-function _main___P30318_mk(s) {
+function _main___P510914_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P30318, depth: s.depth + 1,
+        parent: s, fn: _main___P510914, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
 } }
 
@@ -86,7 +86,7 @@ function _main___P30318_mk(s) {
 
 
 
-const breakpoints = setupDebugger(1, ["_intervals___30704","_pollEventQueue___30920"])
+const breakpoints = setupDebugger(1, ["_intervals___511300","_pollEventQueue___511516"])
 
-return _main___P30318
+return _main___P510914
 })

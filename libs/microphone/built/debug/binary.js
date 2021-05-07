@@ -1,4 +1,4 @@
-// total=2911 new=27.34% cached=0.00% other=72.66%
+// total=2919 new=27.51% cached=0.00% other=72.49%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -56,7 +56,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P48248(s) {
+function _main___P398187(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -66,19 +66,19 @@ if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) re
 switch (step) {
   case 0:
 
-    globals._intervals___48634 = (undefined);
-    globals._pollEventQueue___48850 = (undefined);
+    globals._intervals___398573 = (undefined);
+    globals._pollEventQueue___398789 = (undefined);
     r0 = undefined;
     return leave(s, r0)
   default: oops()
 } } }
-_main___P48248.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"targetoverrides.ts","functionName":"<main>","argumentNames":[]}
-_main___P48248.continuations = [  ]
+_main___P398187.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"targetoverrides.ts","functionName":"<main>","argumentNames":[]}
+_main___P398187.continuations = [  ]
 
-function _main___P48248_mk(s) {
+function _main___P398187_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P48248, depth: s.depth + 1,
+        parent: s, fn: _main___P398187, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
 } }
 
@@ -88,5 +88,5 @@ function _main___P48248_mk(s) {
 
 const breakpoints = setupDebugger(1, [])
 
-return _main___P48248
+return _main___P398187
 })

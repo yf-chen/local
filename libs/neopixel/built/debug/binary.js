@@ -1,4 +1,4 @@
-// total=2909 new=27.36% cached=0.00% other=72.64%
+// total=2917 new=27.53% cached=0.00% other=72.47%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -56,7 +56,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P53882(s) {
+function _main___P403821(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -66,19 +66,19 @@ if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) re
 switch (step) {
   case 0:
 
-    globals._intervals___54268 = (undefined);
-    globals._pollEventQueue___54484 = (undefined);
+    globals._intervals___404207 = (undefined);
+    globals._pollEventQueue___404423 = (undefined);
     r0 = undefined;
     return leave(s, r0)
   default: oops()
 } } }
-_main___P53882.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"../ws2812b/main.ts","functionName":"<main>","argumentNames":[]}
-_main___P53882.continuations = [  ]
+_main___P403821.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"../ws2812b/main.ts","functionName":"<main>","argumentNames":[]}
+_main___P403821.continuations = [  ]
 
-function _main___P53882_mk(s) {
+function _main___P403821_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P53882, depth: s.depth + 1,
+        parent: s, fn: _main___P403821, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
 } }
 
@@ -88,5 +88,5 @@ function _main___P53882_mk(s) {
 
 const breakpoints = setupDebugger(1, [])
 
-return _main___P53882
+return _main___P403821
 })

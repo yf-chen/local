@@ -1,4 +1,4 @@
-// total=2916 new=27.30% cached=0.00% other=72.70%
+// total=2924 new=27.46% cached=0.00% other=72.54%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -56,7 +56,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P45242(s) {
+function _main___P395181(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -66,19 +66,19 @@ if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) re
 switch (step) {
   case 0:
 
-    globals._intervals___45628 = (undefined);
-    globals._pollEventQueue___45844 = (undefined);
+    globals._intervals___395567 = (undefined);
+    globals._pollEventQueue___395783 = (undefined);
     r0 = undefined;
     return leave(s, r0)
   default: oops()
 } } }
-_main___P45242.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"radio-broadcast.ts","functionName":"<main>","argumentNames":[]}
-_main___P45242.continuations = [  ]
+_main___P395181.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"radio-broadcast.ts","functionName":"<main>","argumentNames":[]}
+_main___P395181.continuations = [  ]
 
-function _main___P45242_mk(s) {
+function _main___P395181_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P45242, depth: s.depth + 1,
+        parent: s, fn: _main___P395181, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
 } }
 
@@ -88,5 +88,5 @@ function _main___P45242_mk(s) {
 
 const breakpoints = setupDebugger(1, [])
 
-return _main___P45242
+return _main___P395181
 })
