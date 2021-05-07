@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/JoyBit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/pxt-oled-ssd1306" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/tinkercademy-tinker-kit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/tm1637" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/makecode-local" vcs="Git" />
+  </component>
+</project>
