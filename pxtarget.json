@@ -13,13 +13,14 @@
         "libs/radio-broadcast",
         "libs/microphone",
         "libs/settings",
+        "libs/servo",
         "libs/neopixel",
         "libs/tinkercademy-tinker-kit",
         "libs/TM1637",
         "libs/JoyBit",
-        "libs/realtimeclock-ds1307",
+        "libs/ds1307",
         "libs/motorbit",
-        "libs/mijia-max7219",
+        "libs/max7219",
         "libs/OLED12864_I2C",
         "libs/WhaleySansFont",
         "libs/snowflake"
@@ -32,8 +33,9 @@
         "publishing": true,
         "importing": true,
         "preferredPackages": [
+            "Microsoft/pxt-neopixel"
         ],
-        "githubPackages": false,
+        "githubPackages": true,
         "cloudProviders": {
             "github": {}
         }
