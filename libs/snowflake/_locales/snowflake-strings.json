@@ -1,0 +1,10 @@
+{
+  "snowflake.config|block": "config Pin %pin|cover %cover|threshold %threshold|snowfall %snowfall|most at a time %MostAtATime|speed %speed",
+  "snowflake.load_background|block": "load background picture %dat=variables_get(BG)",
+  "snowflake.load_default_backgroud|block": "load default background picture",
+  "snowflake.pause|block": "pause",
+  "snowflake.reset|block": "reset",
+  "snowflake.start|block": "start",
+  "snowflake|block": "snow flake",
+  "{id:category}Snowflake": "Snowflake"
+}

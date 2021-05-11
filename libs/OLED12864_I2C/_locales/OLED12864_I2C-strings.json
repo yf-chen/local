@@ -1,0 +1,17 @@
+{
+  "OLED12864_I2C.clear|block": "clear",
+  "OLED12864_I2C.draw|block": "draw",
+  "OLED12864_I2C.hline|block": "draw a horizontal line at x %x|y %y|number %len|color %color",
+  "OLED12864_I2C.init|block": "init OLED with addr %addr",
+  "OLED12864_I2C.invert|block": "invert display %d",
+  "OLED12864_I2C.off|block": "turn off",
+  "OLED12864_I2C.on|block": "turn on",
+  "OLED12864_I2C.pixel|block": "set pixel at x %x|y %y|color %color",
+  "OLED12864_I2C.rect|block": "draw a rectangle at x1 %x1|y1 %y1|x2 %x2|y2 %y2|color %color",
+  "OLED12864_I2C.showNumber|block": "show a Number at x %x|y %y|number %num|color %color",
+  "OLED12864_I2C.showString|block": "show string at x %x|y %y|text %s|color %color",
+  "OLED12864_I2C.vline|block": "draw a vertical line at x %x|y %y|number %len|color %color",
+  "OLED12864_I2C.zoom|block": "zoom %d",
+  "OLED12864_I2C|block": "OLED12864_I2C",
+  "{id:category}OLED12864_I2C": "OLED12864_I2C"
+}

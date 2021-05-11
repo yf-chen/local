@@ -1,0 +1,7 @@
+{
+  "default_BG": "snowflake christmas tree extension for 16 x 16 neopixel matrix\r\nFrom microbit/micropython Chinese community.\r\nhttp://www.micropython.org.cn",
+  "snowflake.config": "config snwo flake",
+  "snowflake.pause": "pause running",
+  "snowflake.reset": "Restart again",
+  "snowflake.start": "start running"
+}

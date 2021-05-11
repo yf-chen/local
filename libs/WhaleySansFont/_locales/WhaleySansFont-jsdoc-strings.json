@@ -1,0 +1,5 @@
+{
+  "whaleysans": "makecode WhaleySans Font Package.\r\nFrom microbit/micropython Chinese community.\r\nhttp://www.micropython.org.cn",
+  "whaleysans.showNumber": "show a number",
+  "whaleysans.showNumber|param|dat": "is number will be show, eg: 10"
+}
