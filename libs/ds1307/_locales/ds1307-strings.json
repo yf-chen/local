@@ -1,0 +1,14 @@
+{
+  "DS1307.DateTime|block": "set year %year|    month %month|      day %day|     hour %hour|   minute %minute|   second %second",
+  "DS1307.TimeType.DAY|block": "day",
+  "DS1307.TimeType.HOUR|block": "hour",
+  "DS1307.TimeType.MINUTE|block": "minute",
+  "DS1307.TimeType.MONTH|block": "month",
+  "DS1307.TimeType.SECOND|block": "second",
+  "DS1307.TimeType.YEAR|block": "year",
+  "DS1307.getTime|block": "%data",
+  "DS1307.getWeekday|block": "weekday",
+  "DS1307.setTime|block": "set %datatype |%data",
+  "DS1307|block": "RTC1307",
+  "{id:category}DS1307": "DS1307"
+}

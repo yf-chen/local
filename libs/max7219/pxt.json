@@ -1,0 +1,17 @@
+{
+    "name": "max7219",
+    "version": "0.0.1",
+    "description": "MakeCode editor extension for single or multiple MAX7219 8x8 matrix LED modules",
+    "license": "MIT",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "files": [
+        "README.md",
+        "max7219.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
