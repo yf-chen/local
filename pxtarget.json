@@ -19,7 +19,6 @@
         "libs/TM1637",
         "libs/JoyBit",
         "libs/ds1307",
-        "libs/motorbit",
         "libs/max7219",
         "libs/OLED12864_I2C",
         "libs/WhaleySansFont",

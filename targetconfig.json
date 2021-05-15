@@ -205,6 +205,7 @@
             "bsiever/microbit-dstemp"
         ],
         "preferredRepos": [
+            "kittenbot/pxt-robotbit"
         ],
         "upgrades": {
             "tinkertanker/pxt-iot-environment-kit": "min:v4.2.1",
