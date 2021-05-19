@@ -4,6 +4,8 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libs/JoyBit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libs/pxt-oled-ssd1306" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/pxt-robotbit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/robotbit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libs/tinkercademy-tinker-kit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libs/tm1637" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/makecode-local" vcs="Git" />

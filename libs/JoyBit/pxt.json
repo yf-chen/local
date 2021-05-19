@@ -1,0 +1,14 @@
+{
+    "name": "JoyBit",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "description": "Micro:bit JoyBit game controller developed and maintained by Harbin Aosong Robot Technology Co., Ltd (ALSRobot). micro:bit JoyBit游戏手柄由哈尔滨奥松机器人科技股份有限公司开发、维护",
+    "icon": "icon.png",
+    "license": "MIT",
+    "files": [
+        "JoyBit.ts",
+		"_locales/zh/JoyBit-strings.json"
+    ],
+    "public": true
+}

@@ -1,0 +1,22 @@
+{
+  "BeatList.breve_beat|block": "4",
+  "BeatList.double_beat|block": "2",
+  "BeatList.eighth_beat|block": "1/8",
+  "BeatList.half_beat|block": "1/2",
+  "BeatList.quarter_beat|block": "1/4",
+  "BeatList.whole_beat|block": "1",
+  "JoyBit.btnPressed|block": "Button %btn|  %btnEvent",
+  "JoyBit.myPlayTone|block": "Play Tone %tone| for %beatInfo",
+  "JoyBit.rockerX|block": "Joystick X value",
+  "JoyBit.rockerY|block": "Joystick Y value",
+  "JoyBit|block": "JoyBit",
+  "btnList.cleft|block": "M-LEFT",
+  "btnList.cright|block": "M-RIGHT",
+  "btnList.rdown|block": "R-BOTTOM",
+  "btnList.rleft|block": "R-LEFT",
+  "btnList.rright|block": "R-RIGHT",
+  "btnList.rup|block": "R-TOP",
+  "eventList.pressed|block": "PRESSED",
+  "eventList.released|block": "RELEASED",
+  "{id:category}JoyBit": "JoyBit"
+}

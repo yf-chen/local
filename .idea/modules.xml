@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pxt/pxt.iml" filepath="$PROJECT_DIR$/../pxt/pxt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pxt-common-packages/pxt-common-packages.iml" filepath="$PROJECT_DIR$/../pxt-common-packages/pxt-common-packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/pxt-microbit-3.1.56.iml" filepath="$PROJECT_DIR$/pxt-microbit-3.1.56.iml" />
     </modules>
   </component>

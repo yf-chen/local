@@ -1,0 +1,6 @@
+{
+  "JoyBit.rockerX|block": "摇杆X轴的值",
+  "JoyBit.rockerY|block": "摇杆Y轴的值",
+  "JoyBit.myPlayTone|block": "播放音调%tone|节拍%beatInfo",
+  "JoyBit.btnPressed|block": "按钮%btn|%btnEvent"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "tinkercademy-tinker-kit",
+    "version": "1.1.1",
+    "description": "Tinkercademy package for the Tinker Kit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "files": [
+        "README.md",
+        "tinkercademy.ts",
+        "_locales/zh-CN/tinkercademy-tinker-kit-strings.json",
+        "_locales/zh-CN/tinkercademy-tinker-kit-jsdoc-strings.json",
+        "../pxt-oled-ssd1306/pxt.json",
+        "../pxt-oled-ssd1306/README.md",
+        "../pxt-oled-ssd1306/main.ts",
+        "../pxt-oled-ssd1306/test.ts",
+        "../pxt-oled-ssd1306/_locales/zh/SSD1306_OLED-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

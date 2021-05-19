@@ -1,0 +1,22 @@
+{
+  "OLED.clear|block": "clear OLED display",
+  "OLED.drawLine|block": "draw line from:|x: $x0 y: $y0 to| x: $x1 y: $y1",
+  "OLED.drawLoading|block": "draw loading bar at $percent percent",
+  "OLED.drawRectangle|block": "draw rectangle from:|x: $x0 y: $y0 to| x: $x1 y: $y1",
+  "OLED.init|block": "initialize OLED with width $width height $height",
+  "OLED.newLine|block": "insert newline",
+  "OLED.writeNumNewLine|block": "show number $n",
+  "OLED.writeNum|block": "show (without newline) number $n",
+  "OLED.writeStringNewLine|block": "show string $str",
+  "OLED.writeString|block": "show (without newline) string $str",
+  "tinkercademy.ADKeyboard|block": "key %k | is pressed on ADKeyboard at pin %p",
+  "tinkercademy.LED|block": "toggle LED at pin %p | %state",
+  "tinkercademy.MoistureSensor|block": "value of moisture sensor at pin %p",
+  "tinkercademy.PIR|block": "motion detector at pin %p | detects motion",
+  "tinkercademy.crashSensorSetup|block": "Setup crash sensor at pin %p",
+  "tinkercademy.crashSensor|block": "crash sensor pressed",
+  "tinkercademy|block": "tinkercademy",
+  "{id:category}Math": "Math",
+  "{id:category}OLED": "OLED",
+  "{id:category}Tinkercademy": "Tinkercademy"
+}
