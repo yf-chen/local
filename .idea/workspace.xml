@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4190094-492e-4677-91cd-621f7f35c2f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/libs/JoyBit" beforeDir="false" afterPath="$PROJECT_DIR$/libs/JoyBit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/pxt-oled-ssd1306" beforeDir="false" afterPath="$PROJECT_DIR$/libs/pxt-oled-ssd1306" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/tinkercademy-tinker-kit" beforeDir="false" afterPath="$PROJECT_DIR$/libs/tinkercademy-tinker-kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/tm1637" beforeDir="false" afterPath="$PROJECT_DIR$/libs/tm1637" afterDir="false" />
+    <list default="true" id="c4190094-492e-4677-91cd-621f7f35c2f8" name="Default Changelist" comment="删除扩展">
+      <change beforePath="$PROJECT_DIR$/pxtarget.json" beforeDir="false" afterPath="$PROJECT_DIR$/pxtarget.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pxt/webapp/src/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../pxt/webapp/src/app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pxt/webapp/src/hidbridge.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../pxt/webapp/src/hidbridge.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pxt/webapp/src/socketbridge.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../pxt/webapp/src/socketbridge.ts" afterDir="false" />
+    </list>
+    <list id="144bea6e-a8e6-4585-9342-10cffd1d8fe3" name="ignore" comment="ignore">
+      <change beforePath="$PROJECT_DIR$/libs/bluetooth/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/core/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/core/built/pxt-core.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/core/built/pxt-helpers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/core/built/pxt-python-helpers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/core/built/pxt-python.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/devices/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/microphone/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/neopixel/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/radio-broadcast/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/radio/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/servo/built/debug/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/settings/built/debug/binary.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +53,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../pxt" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/yf-chen/makecode-local-pxt-common.git" />
+        <option value="https://github.com/yf-chen/makecode-local-pxt.git" />
+        <option value="https://github.com/yf-chen/makecode-local.git" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -33,9 +88,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pxt-common-packages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="D:\Dev\Apps\microbit\pxt\node_modules\typescript\lib" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\Apps\microbit\pxt-microbit-3.1.56\built\packaged" />
+      <recent name="D:\Dev\Apps\microbit\pxt-microbit-3.1.56\built" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev\Apps\microbit\pxt-microbit-3.1.56\built\packaged" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,7 +119,231 @@
       <option name="presentableId" value="Default" />
       <updated>1620352369642</updated>
       <workItem from="1620352371791" duration="3000" />
+      <workItem from="1620780364204" duration="40000" />
+      <workItem from="1620791475986" duration="5464000" />
+      <workItem from="1620878088177" duration="2353000" />
+      <workItem from="1620980670194" duration="7017000" />
+      <workItem from="1620987949122" duration="1009000" />
+      <workItem from="1621053415903" duration="3268000" />
+      <workItem from="1621056731524" duration="1193000" />
+      <workItem from="1621058406593" duration="5777000" />
+      <workItem from="1621143596547" duration="2796000" />
+      <workItem from="1621155880786" duration="3709000" />
+      <workItem from="1621178344886" duration="282000" />
+      <workItem from="1621178668159" duration="2027000" />
+      <workItem from="1621211686415" duration="1928000" />
+      <workItem from="1621214316757" duration="10805000" />
+      <workItem from="1621261012886" duration="1411000" />
+      <workItem from="1621314580415" duration="25000" />
+      <workItem from="1621383563853" duration="930000" />
     </task>
+    <task id="LOCAL-00001" summary="扩展">
+      <created>1620726933548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620726933548</updated>
+    </task>
+    <task id="LOCAL-00002" summary="扩展">
+      <created>1621056501747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621056501747</updated>
+    </task>
+    <task id="LOCAL-00003" summary="删除扩展">
+      <created>1621153342285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621153342285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="删除扩展">
+      <created>1621384419217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621384419217</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../pxt-common-packages/libs/game/sprite.d.ts" />
+        <option value="$PROJECT_DIR$/../pxt-common-packages/libs/screen/image.d.ts" />
+        <option value="$PROJECT_DIR$/../pxt/docs/static/playground/playground.js" />
+        <option value="$PROJECT_DIR$/../pxt/docs/static/tutorial-tool/tutorial.js" />
+        <option value="$PROJECT_DIR$/../pxt/docs/static/online-learning/projects.js" />
+        <option value="$PROJECT_DIR$/../pxt/docs/static/online-learning/schedule.js" />
+        <option value="$PROJECT_DIR$/../pxt/scripts/ics/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../pxt" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../pxt" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="扩展" />
+    <MESSAGE value="删除扩展" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除扩展" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="349" width="513" height="593" key="#Notifications" timestamp="1621178828681">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="712" y="349" width="513" height="593" key="#Notifications/0.0.1707.1027@0.0.1707.1027" timestamp="1621178828681" />
+    <state x="3102" y="71" key="CommitChangelistDialog2" timestamp="1621384416454">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3102" y="71" key="CommitChangelistDialog2/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621384416454" />
+    <state x="452" y="58" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1621261463088" />
+    <state x="2653" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1621384409418">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2653" y="93" width="1862" height="926" key="DiffContextDialog/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621384409418" />
+    <state x="78" y="86" width="1365" height="849" key="DiffContextDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1621261462670" />
+    <state x="627" y="165" key="FileChooserDialogImpl" timestamp="1621058457125">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="3312" y="179" key="FileChooserDialogImpl/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1620731414495" />
+    <state x="627" y="165" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1621058457125" />
+    <state x="500" y="180" key="NewModule_or_Project.wizard" timestamp="1621058464277">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="3160" y="195" key="NewModule_or_Project.wizard/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1620731417701" />
+    <state x="500" y="180" key="NewModule_or_Project.wizard/0.0.1707.1027@0.0.1707.1027" timestamp="1621058464277" />
+    <state x="3274" y="189" key="RollbackChangesDialog" timestamp="1621243547990">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3274" y="189" key="RollbackChangesDialog/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621243547990" />
+    <state x="2937" y="27" key="SettingsEditor" timestamp="1621383901858">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2937" y="27" key="SettingsEditor/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621383901858" />
+    <state x="3428" y="453" key="VCS.ChangelistChooser" timestamp="1620726903836">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3428" y="453" key="VCS.ChangelistChooser/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1620726903836" />
+    <state x="3077" y="225" key="Vcs.Push.Dialog.v2" timestamp="1621384421365">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3077" y="225" key="Vcs.Push.Dialog.v2/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621384421365" />
+    <state x="431" y="208" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1621178722344" />
+    <state x="93" y="93" width="1521" height="841" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1621181181325">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="93" y="93" width="1521" height="841" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1621181181325" />
+    <state x="2653" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621243402576">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2653" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621243402576" />
+    <state x="78" y="86" width="1552" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1621156687423" />
+    <state x="612" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621180341414">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="612" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1027@0.0.1707.1027" timestamp="1621180341414" />
+    <state x="63" y="213" width="1517" height="804" key="find.popup" timestamp="1621261808087">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="2635" y="231" width="1820" height="870" key="find.popup/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621242615381" />
+    <state x="63" y="213" width="1517" height="804" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1621261808087" />
+    <state x="338" y="344" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1621178406372">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="338" y="344" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1621178406372" />
+    <state x="3157" y="32" width="840" height="1032" key="search.everywhere.popup" timestamp="1621384093253">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3157" y="32" width="840" height="1032" key="search.everywhere.popup/0.0.1707.1027/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621384093253" />
+    <state x="498" y="30" width="840" height="954" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1621157213735" />
   </component>
 </project>
